@@ -1,6 +1,8 @@
 def get_letter_grade(integer)
- 
-  #Put your code here!
+
+	integer = {"A" => (100..90),"B" => (89..80)}
+  
+end
 
 end
 
